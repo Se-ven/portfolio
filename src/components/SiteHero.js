@@ -17,7 +17,7 @@ const SiteHero = () => {
 
                             <h1 class="site-heading site-animate">Nickolaus<strong class="d-block">Lavery</strong>
                             </h1>
-                            <strong class="d-block text-white text-uppercase letter-spacing">Welcome to my digital vitae page!</strong>
+                            <strong class="d-block text-white text-uppercase letter-spacing">|| Digital Crafstman ||</strong>
 
                         </div>
                     </div>
