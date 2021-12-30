@@ -621,5 +621,5 @@ a {
     color: #666666; }
 
 .letter-spacing {
-  letter-spacing: .2rem;
-  color: rgba(255, 255, 255, 0.5) !important; }
+  letter-spacing: .4rem;
+  color: rgb(255, 255, 255) !important; }

@@ -16,9 +16,10 @@ const SectionResume = () => {
 					<div class="resume-item mb-4">
 						<span class="date"><span class="icon-calendar"></span> May 2020 - October 2020</span>
 						<h3>Full Stack Web Development Certificate</h3>
-						<p>Worked together with industry professionals to develop a solid background in full stack web development libraries
+						<p>Worked together with industry professionals to refresh my skills in full stack web development libraries
                             and technologies.
                         </p>
+						<sub>JavaScript, Node.js, React, Express.js, JSON, basic Golang, HTML, CSS, HTTP, Pug Templating. </sub>
 						<span class="school">Framingham State University</span>
 					</div>
 

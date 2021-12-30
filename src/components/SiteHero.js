@@ -15,9 +15,9 @@ const SiteHero = () => {
                     <div class="row intro-text align-items-center justify-content-center">
                         <div class="col-md-10 text-center pt-5">
 
-                            <h1 class="site-heading site-animate">Nickolaus<strong class="d-block">Lavery</strong>
+                            <h1 class="site-heading site-animate"><strong class="d-block">Nickolaus Lavery</strong>
                             </h1>
-                            <strong class="d-block text-white text-uppercase letter-spacing">|| Digital Crafstman ||</strong>
+                            <strong class="d-block text-white text-uppercase letter-spacing">|| Digital Craftsman ||</strong>
 
                         </div>
                     </div>

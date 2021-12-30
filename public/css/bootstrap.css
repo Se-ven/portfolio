@@ -5166,7 +5166,8 @@ button.bg-dark:focus {
   display: inline-block !important; }
 
 .d-block {
-  display: block !important; }
+  display: block !important;
+  margin: 1.5rem 0 0 0; }
 
 .d-table {
   display: table !important; }

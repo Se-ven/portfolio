@@ -7,16 +7,16 @@ const SectionPortfolio = () => {
 		<div class="container">
 			<div class="row">
 				<div class="section-heading text-center col-md-12">
-					<h2>Featured <strong>Portfolio</strong></h2>
+					<h2>Featured <strong>Projects</strong></h2>
 				</div>
 			</div>
 			<div class="filters">
 				<ul>
 					<li class="active" data-filter="*">All</li>
-					<li data-filter=".packaging">Packaging</li>
-					<li data-filter=".mockup">Mockup</li>
-					<li data-filter=".typography">Typography</li>
-					<li data-filter=".photography">Photography</li>
+					<li data-filter=".packaging">Websites</li>
+					<li data-filter=".mockup">Public Resources</li>
+					<li data-filter=".typography">Commerce</li>
+					<li data-filter=".photography">Business Admin</li>
 				</ul>
 			</div>
 
